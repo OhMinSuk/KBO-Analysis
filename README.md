@@ -8,7 +8,7 @@
 ## 📁 프로젝트 구성
 
 - `KBO_트렌드_데이터_및_성적_분석.ipynb`: 데이터 수집, 전처리, 시각화 분석 포함된 핵심 노트북
-- `https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11925983`: 분석 결과를 정리한 발표용 문서
+- 프로젝트 관련 학술대회 논문 (https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11925983)
 
 ---
 
